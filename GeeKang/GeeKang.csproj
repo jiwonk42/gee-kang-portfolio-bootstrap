@@ -182,8 +182,6 @@
     <Content Include="js\bootstrap.js" />
     <Content Include="js\bootstrap.min.js" />
     <Content Include="videos\sky.mp4" />
-    <Content Include="videos\sky2.mp4" />
-    <Content Include="videos\sky3.mp4" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
