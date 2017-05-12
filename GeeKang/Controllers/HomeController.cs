@@ -10,7 +10,7 @@ namespace GeeKang.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title="Gee Kang";
+            ViewBag.Title="Jiwon's Portfolio";
 return View();
         }
     }
