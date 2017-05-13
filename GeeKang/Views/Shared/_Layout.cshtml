@@ -17,6 +17,9 @@
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="@Url.Content("~/js/bootstrap.js")"></script>
+    <script src="@Url.Content("~/js/scripts.js")"></script>
 </head>
 
 <body>
@@ -29,10 +32,10 @@
 
                 <div class="masthead clearfix overlay-home">
                     <div class="inner">
-                        <h3 class="masthead-brand">@ViewBag.Title</h3>
+                        <h3 class="masthead-brand"><a href="/" class="logo">Jiwon's Portfolio</a></h3>
                         <ul class="nav masthead-nav">
-                            <li class="active"><a href="Home">Home</a></li>
-                            <li><a href="About">About Me</a></li>
+                            <li class="active"><a href="/">Home</a></li>
+                            <li><a href="/About">About Me</a></li>
                             <li><a href="#">Projects</a></li>
                         </ul>
                     </div>
@@ -46,7 +49,7 @@
 
     </div>
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script src="@Url.Content("~/js/bootstrap.js")"></script>
+    @*<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="@Url.Content("~/js/bootstrap.js")"></script>*@
 </body>
 </html>

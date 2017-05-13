@@ -194,6 +194,7 @@
     <Content Include="img\sky.jpeg" />
     <Content Include="js\bootstrap.js" />
     <Content Include="js\bootstrap.min.js" />
+    <Content Include="js\scripts.js" />
     <Content Include="videos\sky.mp4" />
     <Content Include="videos\sky2.mp4" />
     <Content Include="videos\sky3.mp4" />

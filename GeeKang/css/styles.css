@@ -1,6 +1,11 @@
 ﻿body {
    
 }
+
+a.logo:hover {
+    text-decoration: none;
+}
+
 .container-home { position:relative; }
 .container-home video {
     position:relative;
