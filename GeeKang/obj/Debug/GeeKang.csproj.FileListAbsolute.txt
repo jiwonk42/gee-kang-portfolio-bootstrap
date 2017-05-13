@@ -53,3 +53,9 @@ C:\Users\epicodus\Documents\Visual Studio 2015\Projects\GeeKang\GeeKang\bin\Micr
 C:\Users\epicodus\Documents\Visual Studio 2015\Projects\GeeKang\GeeKang\obj\Debug\GeeKang.csprojResolveAssemblyReference.cache
 C:\Users\epicodus\Documents\Visual Studio 2015\Projects\GeeKang\GeeKang\obj\Debug\GeeKang.dll
 C:\Users\epicodus\Documents\Visual Studio 2015\Projects\GeeKang\GeeKang\obj\Debug\GeeKang.pdb
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\GeeKang\GeeKang\bin\System.Net.Http.Formatting.dll
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\GeeKang\GeeKang\bin\System.Web.Http.dll
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\GeeKang\GeeKang\bin\System.Web.Http.WebHost.dll
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\GeeKang\GeeKang\bin\System.Net.Http.Formatting.xml
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\GeeKang\GeeKang\bin\System.Web.Http.xml
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\GeeKang\GeeKang\bin\System.Web.Http.WebHost.xml
