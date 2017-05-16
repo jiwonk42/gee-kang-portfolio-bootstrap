@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using GeeKang.Models;
 
 namespace GeeKang.Controllers
 {
@@ -10,7 +11,8 @@ namespace GeeKang.Controllers
     {
         public ActionResult Index()
         {
-            return View();
+            var projectList = Project.GetProjects();
+            return View(projectList);
         }
     }
 }
