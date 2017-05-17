@@ -12,6 +12,8 @@ namespace GeeKang.Models
     public class Project
     {
         public string Html_Url { get; set; }
+        public string Name { get; set; }
+        public string Description { get; set; }
 
         public static List<Project> GetProjects()
         {
