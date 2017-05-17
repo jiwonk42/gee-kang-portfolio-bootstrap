@@ -201,6 +201,7 @@
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
+    <Content Include="img\create.jpeg" />
     <Content Include="img\sky.jpeg" />
     <Content Include="js\bootstrap.js" />
     <Content Include="js\bootstrap.min.js" />
