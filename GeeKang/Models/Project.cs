@@ -28,10 +28,9 @@ namespace GeeKang.Models
             {
                 response = await GetResponseContentAsync(client, request) as RestResponse;
             }).Wait();
-            //datatype is JArray, opposed to JObject because query returns array instead of object
+
             JArray projectArray = JsonConvert.DeserializeObject<JArray>(response.Content);
 
-            //converting into a string is like converting into json, which is easier to manipulate
             string jsonOutput = projectArray.ToString();
             var projectList = JsonConvert.DeserializeObject<List<Project>>(jsonOutput);
 
